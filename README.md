@@ -1,2 +1,4 @@
 # hello-world
-This is a practice to use GIT
+
+Hello Humans !
+Saya senang belajar Python. Saya programmer pemula. Biar lambat asal selamat
